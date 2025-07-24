@@ -17,7 +17,7 @@ jobs:
       MONGODB_USERNAME: maximilian
       MONGODB_PASSWORD: X34Mqtpg10D8RGTi
       PORT: 8080
-    # environment: testing
+    environment: testing
     runs-on: ubuntu-latest
     steps:
       - name: Get Code
